@@ -1,0 +1,7 @@
+#function
+fac_func() {
+	angka=10
+	local temp=20
+	echo "Global Var in Fungction:" $angka
+	echo "Local Var in Fuction:"
+ }

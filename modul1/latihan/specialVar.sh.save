@@ -1,0 +1,2 @@
+# $0 = Berisi nama file script yang sedang dijalankan
+# $n = n disini adalah angka desimal positif yang sesuai dengan posisi argumen (argumen pertama adalah $1, argumen kedua adalah $2, dst)

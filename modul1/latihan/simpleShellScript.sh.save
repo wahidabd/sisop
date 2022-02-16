@@ -1,0 +1,3 @@
+ls
+hello = "Hello, Wahid!"
+echo $hello
